@@ -1,2 +1,2 @@
 # storepay-go
-Storapay go implementation
+Storepay go implementation
